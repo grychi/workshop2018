@@ -41,11 +41,11 @@ h1, h2 {
 }
 .cloud {
     position: relative;
-    height: 6vh;
-    width: 15vh;
+    height: 3em;
+    width: 8em;
     margin: 4em;
-    opacity: 0.9;
-    border-radius: 3vh;
+    opacity: 0.8;
+    border-radius: 1.5em;
     background-color: var(--font-color);
 }
 .cloud:before, .cloud:after {
